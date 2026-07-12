@@ -53,37 +53,37 @@ AllAboutPython/
 │   ├── List-Programs.md
 │   └── Interview-Questions.md
 │
-├── Tuples/
+├──04-Tuples/
 │     ├── README.md
 │     ├── Tuple-Methods.md
 │     ├── Tuple-Programs.md
 │     └── Interview-Questions.md
 │
-├── Dictionaries/
+├──05-Dictionaries/
 │   ├── README.md
 │   ├── Dictionary-Methods.md
 │   ├── Dictionary-Programs.md
 │   └── Interview-Questions.md
 │
-├── Sets/
+├──06-Sets/
 │   ├── README.md
 │   ├── Set-Methods.md
 │   ├── Set-Programs.md
 │   └── Interview-Questions.md
 │ 
-├── Functions/
+├──10-Functions/
 │
-├── OOP/
+├──11-OOP/
 │
-├── File Handling/
+├──12-File Handling/
 │
-├── Exception Handling/
+├──13-Exception Handling/
 │
-├── Modules and Packages/
+├──14-Modules and Packages/
 │
-├── DSA/
+├──15-DSA/
 │
-└── Practice Problems/
+└──16-Practice Problems/
 ```
 
 ---
