@@ -38,7 +38,9 @@ AllAboutPython/
 │   ├── Variables.md
 │   ├── Data Types.md
 │   └── Interview Questions.md
-│
+│   └── Basic Syntax.md
+│   └── Operators.md
+│ 
 ├── Strings/
 │   ├── README.md
 │   ├── String Methods.md
