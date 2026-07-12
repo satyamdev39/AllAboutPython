@@ -1,6 +1,6 @@
 # 🐍 AllAboutPython
 
-Welcome to **AllAboutPython** — a complete Python learning repository designed to help beginners and developers learn Python from **basic concepts to advanced topics**.
+Welcome to **AllAboutPython** — a complete Python learning repository designed to help beginners and developers learn Python from **basic concepts to advanced topics by Satyam Soni**.
 
 This repository contains Python notes, examples, interview questions, coding problems, and practical implementations to build strong Python programming skills.
 
