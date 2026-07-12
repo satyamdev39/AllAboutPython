@@ -18,3 +18,11 @@ Python automatically identifies the data type of a variable, so we don't need to
 name = "Python"
 age = 30
 price = 99.99
+
+
+print(f"my name is {name} and my age is {age}")
+
+### 📤 Output
+
+my name is Python and my age is 30
+```
