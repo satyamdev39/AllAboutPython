@@ -13,14 +13,7 @@ This repository contains Python notes, examples, interview questions, coding pro
 * 🔤 Strings and String Manipulation
 * 📋 Lists, Tuples, Sets & Dictionaries
 * 🔄 Loops and Conditional Statements
-* ⚙️ Functions and Modules
-* 🏗️ Object-Oriented Programming (OOP)
-* 📂 File Handling
-* ⚠️ Exception Handling
-* 📦 Modules and Packages
-* 🔁 Iterators and Generators
-* 🧩 Decorators
-* 🧠 Data Structures & Algorithms
+* ⚙️ Functions
 * 💻 Coding Practice Problems
 * 🎯 Python Interview Questions
 
