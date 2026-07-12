@@ -33,7 +33,7 @@ AllAboutPython/
 │
 ├── README.md
 │
-├── Basics/
+├──01-Basics/
 │   ├── Python Introduction.md
 │   ├── Variables.md
 │   ├── Data Types.md
@@ -41,12 +41,12 @@ AllAboutPython/
 │   └── Basic Syntax.md
 │   └── Operators.md
 │ 
-├── Strings/
+├──02-Strings/
 │   ├── README.md
 │   ├── String Methods.md
 │   └── Interview Questions.md
 │
-├── Lists/
+├──03-Lists/
 │   │
 │   ├── README.md
 │   ├── List-Methods.md
