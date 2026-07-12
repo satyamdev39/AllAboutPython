@@ -8,3 +8,4 @@ Topics:
 - Data Types
 - Operators
 - Basic Syntax
+- Interview Questions
